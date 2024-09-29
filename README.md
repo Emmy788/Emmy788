@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on building creative websites.
 - 📫 How to reach me emeraldmwaniga80@gmail.com
 - 😄 Pronouns: She/her
-- ⚡ Fun fact:
+- ⚡ Fun fact: 
 
 <!---
 Emmy788/Emmy788 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
