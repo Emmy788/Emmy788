@@ -52,7 +52,7 @@ I'm a developer who enjoys both building and designing, comfortable working acro
 
 ---
 
-### 🌱 [Farmtastic — Agribusiness Website] (https://github.com/Emmy788/Farmtastic-web)
+### 🌱 [Farmtastic — Agribusiness Website](https://github.com/Emmy788/Farmtastic-web)
 > A fully branded multi-page website for an agribusiness company — hero section, services, features, contact and signup pages, built from scratch.
 
 `HTML` `CSS` `JavaScript` · *GoMyCode Kenya capstone project*
