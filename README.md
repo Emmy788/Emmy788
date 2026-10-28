@@ -1,13 +1,13 @@
-<h1 align="center">Hi, I'm Emmy 👋</h1>
+<h1 align="center">Hi, I'm Emerald 👋</h1>
 
 <p align="center">
-  <b>Full-Stack Developer · Laravel · Python · React · UI/UX Enthusiast</b><br>
+  <b>Full-Stack Developer · Laravel · Python · React · Learning AI & Machine Learning</b><br>
   Building real-world web applications, based in Nairobi, Kenya 🇰🇪
 </p>
 
 <p align="center">
   <a href="mailto:emeraldmwaniga80@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/emerald-mwaniga-3620a12ab/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
@@ -16,8 +16,11 @@
 
 I'm a developer who enjoys both building and designing, comfortable working across the stack from crafting clean UIs to building backend systems and APIs. I've built projects in professional environments including a 3-month attachment at the **ICT Authority of Kenya**, where I developed real-world management systems using Laravel.
 
+I'm now learning **AI and machine learning**, and I'm bringing AI into my projects, both as a tool in how I build and as a feature in the applications I create.
+
 - 🔭 Currently working on: **My personal portfolio website**
-- 🌱 Learning: **React, Django, FastAPI, Python**
+- 🌱 Learning: **React, Django, FastAPI, Python, AI & machine learning**
+- 🤖 Exploring: **adding AI-powered features to my web applications**
 - 💼 Open to: **freelance projects & junior developer roles**
 - 💞️ Looking to collaborate on: **creative, well-designed web applications**
 - 📍 Based in: **Nairobi, Kenya**
@@ -40,6 +43,24 @@ I'm a developer who enjoys both building and designing, comfortable working acro
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
 </p>
+
+**Currently learning:**
+
+<p>
+  <img src="https://img.shields.io/badge/AI-Learning-8A2BE2?style=flat&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-Learning-009688?style=flat&logo=fastapi&logoColor=white"/>
+</p>
+
+---
+
+## AI & machine learning
+
+AI is a big part of how I want to grow as a developer. Right now I'm:
+
+- 📚 **Learning** the foundations of AI and machine learning alongside Python
+- 🔌 **Incorporating AI into my projects**, using it to speed up my workflow and exploring AI-powered features inside the apps I build
+- 🛠️ **Aiming to combine** my full-stack background (Laravel, Django, FastAPI, React) with AI so I can ship practical, intelligent web applications
 
 ---
 
@@ -84,6 +105,6 @@ I'm a developer who enjoys both building and designing, comfortable working acro
 
 ## Let's work together
 
-I'm open to **freelance web projects** and actively looking for **junior developer opportunities** especially where good design meets solid backend work.
+I'm open to **freelance web projects** and actively looking for **junior developer opportunities** especially where good design meets solid backend work, and where AI can make the product smarter.
 
 📬 **[emeraldmwaniga80@gmail.com](mailto:emeraldmwaniga80@gmail.com)** · [LinkedIn](https://www.linkedin.com/in/emerald-mwaniga-3620a12ab/)
